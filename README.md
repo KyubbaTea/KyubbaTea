@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KyubbaTea
+- 👀 I’m interested in Data analytics and Data Science...
+- 🌱 I’m currently learning ... everything....
+- 💞️ I’m currently uploading various small learning projects I did to stat using Python and familiarise with GitHub
+- 📫 Thanks!
+
